@@ -1,0 +1,11 @@
+
+title: jyoon's tech blog
+description: tech notes
+theme : just-the-docs
+
+url: https://li-jiyoon.github.io
+
+
+plugins:
+  - jekyll-default-layout
+
